@@ -1,5 +1,5 @@
 # ✌ Hi, my name is **Eselev Kirill**
-## I'm beginner *Frontend developer* from Saratov.
+## I'm beginner *Frontend developer* from Saratov
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F5F4DA?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-E6ECF4?style=for-the-badge&logo=React)
