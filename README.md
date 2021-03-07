@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**eslvkirill/eslvkirill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ✌ Hi, my name is **Eselev Kirill**!
+## I'm beginner *Front-end developer* from Saratov.
+### Languages and Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-F5F4DA?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-E6ECF4?style=for-the-badge&logo=React)
+![HTML](https://img.shields.io/badge/-HTML-F5E2C5?style=for-the-badge&logo=HTML5)
+![SASS](https://img.shields.io/badge/-SASS-F3DCEA?style=for-the-badge&logo=SASS)
+![Git](https://img.shields.io/badge/-Git-F5D3C4?style=for-the-badge&logo=Git)
+### 🖂 Mail me: eslv.kirill@gmail.com
+### 🌐 Telegram: https://t.me/esLlirik
+### 📸 Instagram: https://www.instagram.com/es.llirik
