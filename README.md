@@ -8,4 +8,3 @@
 ![Git](https://img.shields.io/badge/-Git-F5D3C4?style=for-the-badge&logo=Git)
 ### 🖂 Mail me: eslv.kirill@gmail.com
 ### 🌐 Telegram: https://t.me/esLlirik
-### 📸 Instagram: https://www.instagram.com/es.llirik
