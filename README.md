@@ -11,8 +11,9 @@
 ![HTML](https://img.shields.io/badge/-HTML-F5E2C5?style=for-the-badge&logo=HTML5)
 ![SASS](https://img.shields.io/badge/-SASS-F3DCEA?style=for-the-badge&logo=SASS)
 ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-f4d7ba?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F5D3C4?style=for-the-badge&logo=Git)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-f4d7ba?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ### 🖂 Mail me: eslv.kirill@gmail.com
